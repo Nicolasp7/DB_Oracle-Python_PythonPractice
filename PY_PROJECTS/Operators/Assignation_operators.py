@@ -1,0 +1,23 @@
+# Operator of equal assignation
+number = 5
+print('value of number = ', number)
+# Operator of assignation +=
+number = 10
+print('value of number = ', number)
+number += 5
+print('value of number = ', number)
+# Operator of assignation -=
+number = 50
+print('value of number = ', number)
+number -= 20
+print('value of number = ', number)
+# Operator of assignation *=
+number = 2
+print('value of number = ', number)
+number *= 30
+print('value  of number = ', number)
+# Operator of assignation //=
+number = 100
+print('value of number = ', number)
+number //= 2
+print('value  of number = ', number)
